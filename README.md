@@ -1,1 +1,1 @@
-# dsc-git-setup
+# Setting Up Git
